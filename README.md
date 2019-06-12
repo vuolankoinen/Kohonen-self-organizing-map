@@ -1,4 +1,4 @@
-# prolog_machine_learning
+# A couple of ML algorithm implementations to try out Prolog 
 Implementing basic stuff as an exercise.
 
 ### K_means
